@@ -7,12 +7,12 @@
 ---
 
 ## 1. Open with his words, not ours (5 min)
-Read back: his priority, his vision line, his definition of "solved" (Dashboard B2/B3). Ask: *"Still true, or has anything shifted?"* — fixes headline if needed.
+Read back: his 12-month goal, his vision line, his lag target (Dashboard B2/B3). Ask: *"Still true, or has anything shifted?"* — fixes headline if needed.
 
-## 2. Show the pulse findings first — he hasn't seen them (10 min)
-Block scores + themes (anonymity protocol: percentages and themes only). Then ask, in order:
+## 2. Show the Team Opinion findings first — he hasn't seen them (10 min)
+Dimension scores + flags + themes (anonymity protocol: percentages and themes only; psych-safety mean and the two flagged dimensions are the headline). Then ask, in order:
 - *"Which of these surprises you most?"*
-- *"Which do you disagree with?"* — disagreement is data: if he rejects a pulse-strong finding, it enters #8 as confirmed-with-dissent, noted, NOT removed.
+- *"Which do you disagree with?"* — disagreement is data: if he rejects a Team Opinion-strong finding, it enters #8 as confirmed-with-dissent, noted, NOT removed.
 
 ## 3. Walk the root-cause table row by row (15 min)
 For each cause: read it, show its streams, ask **"true, partly, or no?"**
@@ -31,7 +31,7 @@ Each #9 row: owner accepts? start date? proof metric sensible?
 
 ## 6. Close: lock baseline + next date (5 min)
 - Fill `07_dashboard.md` baseline row with today's numbers, date it, both sign off verbally.
-- Fix month-3 pulse re-run date and month-6 review date **before leaving the room.**
+- Fix month-3 Team Opinion re-run date and month-6 review date **before leaving the room.**
 
 ---
 

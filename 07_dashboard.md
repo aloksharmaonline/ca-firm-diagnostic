@@ -8,28 +8,27 @@
 
 | # | Metric | Baseline | 6-month check | Move? |
 |---|---|---|---|---|
-| 1 | **Engagement priority progress** — founder's own "solved" sign, as a yes/no + one-line evidence | ⟨Dashboard B3⟩ → ___ | ___ | ✓/✗ |
-| 2 | **Overall pulse favorable %** | ⟨B7⟩ % | ___ % | ↑ ↓ |
-| 3 | **Growth block % (career path)** — the attrition driver | ⟨B8⟩ % | ___ % | ↑ ↓ |
-| 4 | **Turnover intent %** (T1) | ⟨B11⟩ % | ___ % | ↓ target |
-| 5 | **Exits, last 12 months** (count, and whether regretted) | ⟨B20⟩ (24-mo est.) → ___ | ___ | ↓ target |
+| 1 | **Founder's 12-month goal** — worked? yes/no + one-line evidence | ⟨B2⟩ → ___ | ___ | ✓/✗ |
+| 2 | **Lag target vs actual** (his own proof, B3) | ⟨B3⟩ → ___ | ___ | ↑ ↓ |
+| 3 | **Psychological safety (1–7)** | ⟨B5⟩ | ___ | ↑ ↓ |
+| 4 | **Lowest-health dimension** (name + value) | ⟨name⟩ ⟨%⟩ | ___ | ↑ ↓ |
+| 5 | **Exits, last 12 months** (count, and whether regretted) | ⟨B28⟩ (24-mo est.) → ___ | ___ | ↓ target |
 
-**Context row (not scored, read alongside):** Support block ⟨B10⟩ · Workload block ⟨B9⟩ · Leverage ⟨B18⟩ · n ⟨B4⟩
+**Context row (not scored, read alongside):** flagged dimensions ⟨C9:C19⟩ · QD/WF health ⟨B9, B10⟩ · leverage ⟨B26⟩ · n ⟨B6⟩
 
 ---
 
 ## Flag rules (same as the sheet)
 
-- Any block < 50% → **RED**
-- Turnover intent ≥ 30% → **WATCH**
-- Movement < 5 points at 6 months → **stalled** — either the intervention wasn't executed or the cause map was wrong; revisit #8.
+- Bottom 2 dimensions by health → **FLAG** (within-firm relative; no external cutoffs)
+- Movement < 5 points at 6 months on a 0–100 dimension, or < 0.3 on psych safety (1–7) → **stalled** — either the intervention wasn't executed or the cause map was wrong; revisit #8.
 
 ## Review cadence
 
 | When | Who | Action |
 |---|---|---|
 | Now | You + founder | Lock baseline; he commits owners for #9 rows |
-| Month 3 | You | Pulse re-run (same 10 items — identical wording, mandatory for comparability); update sheet |
+| Month 3 | You | Team Opinion re-run (same 20 items — identical wording, mandatory for comparability); update sheet |
 | Month 6 | You + founder | Full re-check vs baseline; keep/kill each #9 row |
 
-**Comparability rule:** never edit pulse question wording between waves — changed wording invalidates the trend.
+**Comparability rule:** never edit question wording between waves — changed wording invalidates the trend (and the COPSOQ/Edmondson licenses require verbatim items anyway).
