@@ -36,7 +36,7 @@ function buildDiagnostic() {
       'the plan. The next section adapts to what you pick first.');
     a.setCollectEmail(false);
     a.setAllowResponseEdits(true);
-    a.setConfirmingMessage('Submitted. Your answers are now feeding the diagnostic - ' +
+    a.setConfirmationMessage('Submitted. Your answers are now feeding the diagnostic - ' +
       'next step is a short review session.');
 
     // Page 1: destination question (routing set AFTER sections exist)
@@ -261,7 +261,7 @@ function buildLinkC_() {
     'attributed to you.');
   p.setCollectEmail(false);
   p.setAllowResponseEdits(false);
-  p.setConfirmingMessage('Thank you - your response is anonymous and has been recorded.');
+  p.setConfirmationMessage('Thank you - your response is anonymous and has been recorded.');
 
   var help = '1 = Strongly disagree  |  2 = Disagree  |  3 = Neutral  |  4 = Agree  |  5 = Strongly agree';
   var likert = [
